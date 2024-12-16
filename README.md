@@ -13,6 +13,7 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 <br />
+<br />
 
 <こんにちは、私は Jarvis です。新しいことを学ぶことに熱心な情熱的な開発者です。>
 
@@ -39,64 +40,42 @@
 - 🏦 I'm a Software Engineer (Bachelor [BSc] of Computer Science [CS] - Master [MSc] of Artificial Intelligence & Machine Learning [A.I.])
       <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/gandalf_parrot.gif" width="31" style="vertical-align:middle">
 
-<br />
 
 - 📝 Regularly write technical articles
 
-<br />
 
 - 💻 Using **.js**, **.py**, **.go**, **_**
 
-<br />
 
 - 📖 Sometimes reading novels, Manga, EBooks
 
-<br />
 
 - 💬 Talk to me about Projects, AI, Games, Anime, Manga, Novels, and Books
 
-<br />
 
 - 👯 We can connect to play some games of Chess ♟ and other games too
 
-<br />
 
 - ⚡ Fun fact: I am single for now
 
-<br />
 
 - 🧑‍💻 Tech I work on JS, Python, Go, C, C++, and related frameworks
 
 <br />
-<br />
-<br />
 
 Other things that you might have found them interesting such as: 
 
-<br />
-
 1. Won Two times ACME IBM competition (Participated 5 times)
-
-<br />
 
 2. Won a gold math medal in high school <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Medal.gif" width="35" style="vertical-align:middle">
 
-<br />
-
 3. Make handy software for my needs
-
-<br />
 
 4. Make some games in CLI and GUI
 
-<br />
-
 5. Various academic projects and scientific problems
 
-<br />
-
 <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/steam_div.png">
-
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Mario_Hello_Big.gif" width="31"> Huh...
        <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
