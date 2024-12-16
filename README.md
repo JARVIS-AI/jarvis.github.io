@@ -67,6 +67,8 @@
 - 🧑‍💻 Tech I work on JS, Python, Go, C, C++, and related frameworks
 
 <br />
+<br />
+<br />
 
 Other things that you might have found them interesting such as: 
 
