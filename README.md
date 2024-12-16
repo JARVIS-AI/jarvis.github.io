@@ -1,4 +1,5 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Hi.gif" width="30" style="vertical-align:middle">, Watashi wa J M desu</h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Hi.gif" width="30" style="vertical-align:middle">, Watashi wa J M desu</h1>
+
 <h3 align="center">A passionate, serious game developer, web developer, and writer</h3>
 
 <div align="center"> 
@@ -31,7 +32,7 @@
        Can't think of any creativity here so if you found it unpleasant, GOMEN **Arigatō**
 </p>
 
-<img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Developer.gif" width="95"> \\___About Me:
+<h3><img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/Developer.gif" width="95"> \\___About Me:</h3>
 
 <br />
 
