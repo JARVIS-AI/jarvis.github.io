@@ -81,6 +81,8 @@ Other things that you might have found them interesting such as:
        <img src="https://raw.githubusercontent.com/JARVIS-AI/img-storageprojects/master/Profile-GIF/L.gif" style="max-width:100%;filter: drop-shadow(0px 10px 0.75rem #1b2139a3);" width="300" align="middle">
 </h3>
 
+<br />
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JARVIS-AI&label=Profile%20views&color=0e75b6&style=flat" alt="JARVIS-AI" /> </p>
 
 <details align="center">
